@@ -22,8 +22,8 @@ kaggle datasets download darkmatternet/s-and-p-500-stocks-25-years-of-data-updat
 
 ### 1. Clone the repository
 ```bash
-git clone www.github.com/michael-gubler190/csc382-project.git
-cd www.github.com/michael-gubler190/csc382-project.git
+git clone https://github.com/michael-gubler190/csc382-project.git
+cd https://github.com/michael-gubler190/csc382-project.git
 ```
 
 ### 2. Create and activate a virtual environment
